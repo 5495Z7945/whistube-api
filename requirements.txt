@@ -1,0 +1,5 @@
+flask
+flask-cors
+yt-dlp
+ffmpeg-python
+git+https://github.com/openai/whisper.git
